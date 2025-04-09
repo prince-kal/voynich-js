@@ -1,5 +1,5 @@
 {
-  "name": "voynich-js",
+  "name": "voynich-ledger",
   "version": "1.0.0",
   "description": "JS SDK for The Voynich Manuscript",
   "main": "compute.js",
