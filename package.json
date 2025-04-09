@@ -1,7 +1,7 @@
 {
   "name": "voynich-ledger",
   "version": "1.0.0",
-  "description": "JS SDK for The Voynich Manuscript",
+  "description": "Javascript SDK for Voynich",
   "main": "compute.js",
   "scripts": {},
   "keywords": ["sdk", "voynich", "api"],
