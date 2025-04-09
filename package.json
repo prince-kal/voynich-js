@@ -1,0 +1,13 @@
+{
+  "name": "voynich-js",
+  "version": "1.0.0",
+  "description": "JS SDK for The Voynich Manuscript",
+  "main": "compute.js",
+  "scripts": {},
+  "keywords": ["sdk", "voynich", "api"],
+  "author": "Kal D. Abali",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}

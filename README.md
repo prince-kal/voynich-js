@@ -1,2 +1,11 @@
-# voynich-js
+# Power is Knowledge
 Javascript SDK & NPM Library for The Voynich Manuscript.
+
+
+Documentation Link : https://merlinfinancial.tech
+
+
+NPM Link : 
+
+
+
